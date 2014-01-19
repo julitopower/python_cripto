@@ -1,0 +1,11 @@
+19 Jan 2014
+=================
+
+* Project migrated to Github: https://github.com/julitopower/python_cripto.git
+
+20 Nov 2010:
+=================
+V 0.0.1-SNAPSHOT:
+
+Initial working version.
+Encrypts/Decrypts files using a BlowFish algorithm
